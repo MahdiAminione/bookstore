@@ -1,0 +1,256 @@
+<html>
+<head>
+
+<link href="book.css" rel="stylesheet" type="text/css">
+<title>سایت خرید و فروش کتاب فردوسی</title>
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link href='http://www.fontonline.ir/css/BYekan.css' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<div id="hb">
+<div class="head">
+  <div id="meno">
+    <ul>
+  <li><a href="j">در باره ما</a></li>
+  <li><a href="j">تماس با ما</a></li>
+  <li><a href="j">پشتیبانی </a></li>
+  <li><a href="j">تبلیغات</a></li>
+  <li><a href="j">بازخورد</a></li>
+    </ul>
+  </div>
+
+  <div id="meno2">
+<form>
+
+<input type="search" placeholder="جست و جو در عناوین کتاب و نام نویسنده و ..." >
+
+<select>
+<option >دسته بندی   </option>
+<option>رمان  </option>
+<option>تاریخی  </option>
+<option>شعر و ادبیات  </option>
+<option>کتاب  های درسی  </option>
+</select>
+
+<select>
+<option>شهر   </option>
+<option>تهران  </option>
+<option>اصفهان </option>
+<option>مشهد  </option>
+<option>تبریز  </option>
+<option>  فارس </option>
+</select>
+
+</form>
+  </div>
+  <div id="head1">
+<h3>خرید و فروش آنلاین انواع مختلف کتاب در</h3>
+<h1><a href="f">کتاب جو </a></h1>
+<p>(مدرسه ی فرهنگ ناحیه ی 2 - کلاس فردوسی)</p>
+<pre>
+مهدی امینی
+احسان کریمی
+محمد حسین صفری
+</pre>
+
+<div id="head2">
+<span>برای ثبت نام و ثبت آگهی</span>
+<a href="">بر روی اینجا کلیک کنید</a>
+<div>
+</div>
+</div>
+</div>
+</div>
+
+  <h3 class="h3">کتاب های رمان</h3>
+
+  <div class="bbb">
+
+<div class="style1">
+   <a href="f"><img src="image/roman/roman1.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span>
+   </div>
+
+   <div class="style2">
+   <a href="f"><img src="image/roman/roman2.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span>
+</div>
+
+   <div class="style3">
+   <a href="f"><img src="image/roman/roman3.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span>
+</div>
+
+   <div class="style4">
+   <a href="f"><img src="image/roman/roman4.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span>
+</div>
+
+   <div class="style5">
+   <a href="f"><img src="image/roman/roman5.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span>
+</div>
+
+   <div class="style6">
+   <a href="f"><img src="image/roman/roman6.jpg" alt="کتاب رمان" width="200px" height="320px"></a><br/><br/>
+   <span><a title="کتاب رمان" href="d">کتاب رمان</a></span><br/><br/>
+   <span>کتاب رمان</span><br/><br/><br/>
+</div>
+
+ </div>
+
+
+ <h3 class="h3">کتاب های تاریخی</h3>
+
+ <div class="bbb">
+
+<div class="style1">
+  <a href="f"><img src="image/tarikh/tarikh1.jpg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="تاریخی" href="d">تاریخ تاریخ</a></span><br/><br/>
+  <span>تاریخی</span>
+  </div>
+
+  <div class="style2">
+  <a href="f"><img src="image/tarikh/tarikh2.jpeg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="تاریخی" href="d">تاریخی تاریخی</a></span><br/><br/>
+  <span>تاریخ</span>
+</div>
+
+  <div class="style3">
+  <a href="f"><img src="image/tarikh/tarikh3.jpg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="تاریخی" href="d">تاریخی تاریخی</a></span><br/><br/>
+  <span>تاریخ</span>
+</div>
+
+  <div class="style4">
+  <a href="f"><img src="image/tarikh/tarikh4.jpg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="تاریخی" href="d">تاریخی تاریخی</a></span><br/><br/>
+  <span>تاریخی</span>
+</div>
+
+  <div class="style5">
+  <a href="f"><img src="image/tarikh/tarikh5.jpg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="تاریخی" href="d">تاریخی</a></span><br/><br/>
+  <span>تاریخ</span>
+</div>
+
+  <div class="style6">
+  <a href="f"><img src="image/tarikh/tarikh6.jpg" alt="کتاب تاریخی" width="200px" height="320px"></a><br/><br/>
+  <span><a title="کتاب تاریخی" href="d">کتاب تاریخی</a></span><br/><br/>
+  <span>کتاب تاریخی</span><br/><br/><br/>
+</div>
+
+</div>
+
+
+<h3 class="h3">شعر و ادبیات</h3>
+
+<div class="bbb">
+
+<div class="style1">
+ <a href="f"><img src="image/sher/sher1.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات" href="d">شعر و ادبیات</a></span><br/><br/>
+ <span>شعر و ادبیات</span>
+ </div>
+
+ <div class="style2">
+ <a href="f"><img src="image/sher/sher2.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات" href="d">شعر و ادبیات شعر و ادبیات</a></span><br/><br/>
+ <span>شعر و ادبیات</span>
+</div>
+
+ <div class="style3">
+ <a href="f"><img src="image/sher/sher3.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات" href="d">شعر و ادبیات</a></span><br/><br/>
+ <span>شعر و ادبیات</span>
+</div>
+
+ <div class="style4">
+ <a href="f"><img src="image/sher/sher4.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات" href="d">شعر و ادبیات</a></span><br/><br/>
+ <span>شعر و ادبیات</span>
+</div>
+
+ <div class="style5">
+ <a href="f"><img src="image/sher/sher5.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات" href="d">شعر و ادبیات</a></span><br/><br/>
+ <span>شعر </span>
+</div>
+
+ <div class="style6">
+ <a href="f"><img src="image/sher/sher6.jpg" alt="شعر و ادبیات" width="200px" height="320px"></a><br/><br/>
+ <span><a title="شعر و ادبیات شعر و ادبیات" href="d">شعر و ادبیات شعر و ادبیات</a></span><br/><br/>
+ <span>شعر و ادبیات</span><br/><br/><br/>
+</div>
+
+</div>
+
+
+<h3 class="h3">کتاب های درسی</h3>
+
+<div class="bbb">
+
+<div class="style1">
+ <a href="f"><img src="image/darsi/darse1.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span>
+ </div>
+
+ <div class="style2">
+ <a href="f"><img src="image/darsi/darse2.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span>
+</div>
+
+ <div class="style3">
+ <a href="f"><img src="image/darsi/darse3.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span>
+</div>
+
+ <div class="style4">
+ <a href="f"><img src="image/darsi/darse4.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span>
+</div>
+
+ <div class="style5">
+ <a href="f"><img src="image/darsi/darse5.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span>
+</div>
+
+ <div class="style6">
+ <a href="f"><img src="image/darsi/darse6.jpg" alt="کتاب های درسی" width="200px" height="320px"></a><br/><br/>
+ <span><a title="کتاب های درسی" href="d">کتاب های درسی</a></span><br/><br/>
+ <span>کتاب های درسی</span><br/><br/><br/>
+</div>
+
+</div>
+
+<div id="hee">
+
+<div id="right">
+<h4>توضیحات وب سایت</h4>
+
+<P>این وب سایت توسط مهدی امینی و با کمک و همکاری احسان کریمی و محمد حسین صفری آماده شده.<br/>هدف از ایجاد این صفحه به تصویر کشیدن بخشی از ایده ی خرید و فروش کتاب آنلاین مخصوصا کتاب های دسته دوم بوده است.<br/><br/>بخش های دیگر سایت در آینده کامل خواهد شد و چندین بخش جدید به این پروژه افزوده می شود.</p>
+
+</div>
+
+<div id="left">
+
+  <img src="image/hee.png" alt="تصویر بوم کسب و کار" title="تصویر بوم کسب و کار">
+
+</div>
+</div>
+
+</body>
+</html>
